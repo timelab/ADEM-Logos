@@ -10,7 +10,7 @@ The hardware designs, firmware and technical documentation can be found in [this
 
 We welcome feedback and contributions.
 
-
+  
 ![Adem logo](http://timelab.github.io/ADEM-Logos/svg/adem_logo_stroke.svg)
 
 
