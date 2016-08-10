@@ -1,15 +1,16 @@
 # Timelab ADEM project logos
 
-The [Timelab](http://timelab.org) ADEM project enables cyclists to measure particulate matter (PM10 and PM25). The quality based on these measurements are displayed on the device, temporarily stored and sent via WiFi to a central data collection service.
+[ADEM](http://ik-adem.be) is a community based, open source, citizen science project, which enables cyclists to measure air pollution (PM10 and PM25 particles). Through the mapping of air quality, the project aims to raise awareness on health and ecology in an urban context. The project spans from the hardware and software development of the device and visualization tools, as well as impact analysis and the transfer of knowledge through workshops and campaign material.
 
-The aim of this project is to create a low-cost open-source DIY hardware and firmware kit that is modular and adjustable, can be locally reproduced and repaired.
+This repository hosts the logos for the project &mdash; including laser/sticker cutter ready versions of the designs.
 
-This git repository hosts the hardware designs, firmware and technical documentation for the ADEM device. You can find the documentation at: [https://github.com/timelab/ADEM/tree/master/docs](https://github.com/timelab/ADEM/tree/master/docs)
+The project's website is [ik-adem.be](http://ik-adem.be) (ultimately the gathered data will be visualized there).
 
-More information related to this project is available from the project’s wiki at: [http://wiki.timelab.org/wiki/A.D.E.M](http://wiki.timelab.org/wiki/A.D.E.M)
+The hardware designs, firmware and technical documentation can be found in [this repository](https://github.com/timelab/ADEM).
 
 We welcome feedback and contributions.
-  
+
+
 ![Adem logo](http://timelab.github.io/ADEM-Logos/svg/adem_logo_stroke.svg)
 
 
